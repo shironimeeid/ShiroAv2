@@ -42,7 +42,7 @@ object AppUpdater {
         val repo = activity.getString(R.string.repo)
         tryWithSuspend {
             val (md, version) = if (BuildConfig.DEBUG) {
-                val res = client.get("https://api.github.com/repos/shironimeeid/ShiroA-/releases?page=1&per_page=10")
+                val res = client.get("https://api.github.com/repos/shironimeeid/ShiroAv2/releases?page=1&per_page=10")
                     .parsed<JsonArray>().map {
                         Mapper.json.decodeFromJsonElement<GithubResponse>(it)
                     }
@@ -54,7 +54,7 @@ object AppUpdater {
                 (r.body ?: "") to v.ifEmpty { throw Exception("Weird Version : ${r.tagName}") }
             } else {
                 val res =
-                    client.get("https://api.github.com/repos/shironimeeid/ShiroA-/releases?page=1&per_page=10").text
+                    client.get("https://api.github.com/repos/shironimeeid/ShiroAv2/releases?page=1&per_page=10").text
                 res to res.substringAfter("# ").substringBefore("\n")
             }
 
@@ -85,12 +85,12 @@ object AppUpdater {
                     setPositiveButton(currContext()!!.getString(R.string.lets_go)) {
                         MainScope().launch(Dispatchers.IO) {
                             try {
-                                client.get("https://api.github.com/repos/shironimeeid/ShiroA-/releases?page=1&per_page=10")
+                                client.get("https://api.github.com/repos/shironimeeid/ShiroAv2/releases?page=1&per_page=10")
                                     .parsed<GithubResponse>().assets?.find {
                                         it.browserDownloadURL.endsWith("apk")
                                     }?.browserDownloadURL.apply {
                                         if (this != null) activity.downloadUpdate(version, this)
-                                        else openLinkInBrowser("https://api.github.com/repos/shironimeeid/ShiroA-/releases?page=1&per_page=10")
+                                        else openLinkInBrowser("https://api.github.com/repos/shironimeeid/ShiroAv2/releases?page=1&per_page=10")
                                     }
                             } catch (e: Exception) {
                                 logError(e)
