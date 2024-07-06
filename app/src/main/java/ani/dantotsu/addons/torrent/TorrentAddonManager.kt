@@ -137,6 +137,6 @@ class TorrentAddonManager(
     companion object {
         const val TORRENT_PACKAGE = "dantotsu.torrentAddon"
         const val TORRENT_CLASS = "ani.dantotsu.torrentAddon.TorrentAddon"
-        const val REPO = "rebelonion/Dantotsu-Torrent-Addon"
+        const val REPO = "shironimeeid/ShiroAv2-Torrent-Addon"
     }
 }

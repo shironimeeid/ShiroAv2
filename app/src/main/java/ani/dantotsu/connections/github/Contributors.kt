@@ -42,58 +42,10 @@ class Contributors {
             developers = developers.plus(
                 arrayOf(
                     Developer(
-                        "MarshMeadow",
-                        "https://avatars.githubusercontent.com/u/88599122?v=4",
-                        "Beta Icon Designer & Website Maintainer",
-                        "https://github.com/MarshMeadow?tab=repositories"
-                    ),
-                    Developer(
-                        "Zaxx69",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6342562-kxE8m4i7KUMK.png",
-                        "Telegram Admin",
-                        "https://anilist.co/user/6342562"
-                    ),
-                    Developer(
-                        "Arif Alam",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6011177-2n994qtayiR9.jpg",
-                        "Discord & Comment Moderator",
-                        "https://anilist.co/user/6011177"
-                    ),
-                    Developer(
-                        "SunglassJeery",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b5804776-FEKfP5wbz2xv.png",
-                        "Head Discord & Comment Moderator",
-                        "https://anilist.co/user/5804776"
-                    ),
-                    Developer(
-                        "Excited",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6131921-toSoGWmKbRA1.png",
-                        "Comment Moderator",
-                        "https://anilist.co/user/6131921"
-                    ),
-                    Developer(
-                        "Gurjshan",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6363228-rWQ3Pl3WuxzL.png",
-                        "Comment Moderator",
-                        "https://anilist.co/user/6363228"
-                    ),
-                    Developer(
-                        "NekoMimi",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6244220-HOpImMGMQAxW.jpg",
-                        "Comment Moderator",
-                        "https://anilist.co/user/6244220"
-                    ),
-                    Developer(
-                        "Ziadsenior",
-                        "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b6049773-8cjYeUOFUguv.jpg",
-                        "Comment Moderator and Arabic Translator",
-                        "https://anilist.co/user/6049773"
-                    ),
-                    Developer(
-                        "hastsu",
-                        "https://cdn.discordapp.com/avatars/602422545077108749/20b4a6efa4314550e4ed51cdbe4fef3d.webp?size=160",
-                        "Comment Moderator and Arabic Translator",
-                        "https://anilist.co/user/6183359"
+                        "renn.ezzcos",
+                        "https://avatars.githubusercontent.com/u/120251625?v=4",
+                        "Moderator and Translator",
+                        "https://shirokochan672.pythonanywhere.com/"
                     ),
                 )
             )

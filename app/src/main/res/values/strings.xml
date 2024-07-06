@@ -176,7 +176,7 @@
     <string name="anilist_settings">Pengaturan Anilis</string>
     <string name="extension_settings">Ekstensi</string>
     <string name="downloads">Unduhan</string>
-    <string name="offline_mode">Modus Luar Talian</string>
+    <string name="offline_mode">Offile Mode</string>
     <string name="settings">Pengaturan</string>
     <string name="extensions">Ekstensi</string>
     <string name="extension_updates_available">Pembaruan ekstensi tersedia</string>
@@ -573,8 +573,8 @@
 
     <string name="watched_num">"Menonton"</string>
     <string name="read_num">"Membaca "</string>
-    <string name="episodes_out_of">"dari"</string>
-    <string name="chapters_out_of">"dari"</string>
+    <string name="episodes_out_of">" dari"</string>
+    <string name="chapters_out_of">" dari"</string>
     <string name="episodes_total_of">"Jumlah dari "</string>
     <string name="chapters_total_of">"Jumlah dari "</string>
     <string name="no_description_available">"Deskripsi tidak tersedia"</string>

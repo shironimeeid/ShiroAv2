@@ -44,8 +44,8 @@ android {
         alpha {
             applicationIdSuffix ".beta" // keep as beta by popular request
             versionNameSuffix "-alpha01-" + gitCommitHash
-            manifestPlaceholders.icon_placeholder = "@mipmap/ic_launcher_alpha"
-            manifestPlaceholders.icon_placeholder_round = "@mipmap/ic_launcher_alpha_round"
+            manifestPlaceholders.icon_placeholder = "@mipmap/ic_launcher_beta"
+            manifestPlaceholders.icon_placeholder_round = "@mipmap/ic_launcher_beta_round"
             debuggable System.getenv("CI") == null
             isDefault true
         }
