@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="http://schemas.android.com/tools" ns0:locale="en-rUS">
+
+    <string name="repo" translatable="false">shironimeeid</string>
+    <string name="preference_file_key" translatable="false">dantotsuprefs</string>
+
+    <string name="app_name" translatable="false">ShiroA ツ</string>
+    <string name="slogan">Anime &amp; Aplikasi manga untuk Android.</string>
+
+    <string name="login">Gabung</string>
+    <string name="logout">Keluar</string>
+
+    <string name="dantotsu" translatable="false">https://dantotsu.app/</string>
+    <string name="discord" translatable="false">https://discord.gg/</string>
+    <string name="github" translatable="false">https://github.com/shironimeeid</string>
+    <string name="telegram" translatable="false" ns0:ignore="Typos">https://t.me/</string>
+    <string name="coffee" translatable="false">https://buymeacoffee.com/shirokochag</string>
+
+    <string name="anilist_link">https://anilist.co/user/%1$s/</string>
+    <string name="myanilist_link">https://myanimelist.net/profil/%1$s/</string>
+    <string name="discord_link">https://discord.com/users/%1$s/</string>
+
+    <string name="home">Rumah</string>
+    <string name="anime">anime</string>
+    <string name="browse_anime">Jelajahi Anime</string>
+    <string name="manga">manga</string>
+    <string name="browse_manga">Jelajahi Manga</string>
+    <string name="novels">Novel</string>
+    <string name="info">Informasi</string>
+    <string name="watch">Jam tangan</string>
+    <string name="read">Membaca</string>
+    <string name="language">Bahasa</string>
+    <string name="language_code" translatable="false">BAH</string>
+
+    <string name="anime_list">Daftar Anime</string>
+    <string name="manga_list">Daftar Manga</string>
+
+    <string name="sad">X(</string>
+    <string name="oh">:Hai</string>
+    <string name="colon" />
+
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="refresh">Menyegarkan</string>
+
+    <string name="search">Mencari</string>
+    <string name="search_results">Hasil Pencarian</string>
+    <string name="sort_by">Sortir dengan</string>
+    <string name="genre">Genre</string>
+    <string name="top_score">Nilai Tertinggi</string>
+    <string name="updated">Baru-baru ini Diperbarui</string>
+    <string name="trending_anime">Anime yang sedang tren</string>
+    <string name="popular_anime">Anime Populer</string>
+    <string name="trending_manga">Manga yang sedang tren</string>
+    <string name="trending_novel">Novel yang Sedang Tren</string>
+    <string name="popular_manga">Manga Populer</string>
+
+    <string name="username">Nama belakang</string>
+    <string name="chapters_read">Bab Baca</string>
+    <string name="chapters_read_n">Bab\nBaca</string>
+    <string name="episodes_watched">Episode Ditonton</string>
+    <string name="episodes_watched_n">Episode\nDitonton</string>
+    <string name="continue_reading">Lanjut membaca</string>
+    <string name="continue_watching">Lanjutkan Menonton</string>
+    <string name="recommended">Direkomendasikan</string>
+
+    <string name="get_recommendations">Tonton/Baca beberapa Anime atau Manga untuk mendapatkan Rekomendasi</string>
+    <string name="empty">Semua menyusul, kapan Baru?</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="add">Tambahkan ke Daftar</string>
+    <string name="list_editor">Editor Daftar</string>
+    <string name="add_fav">Tambahkan ke Favorit</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string-array name="keys">
+        <item>Reading</item>
+        <item>Watching</item>
+        <item>Completed</item>
+        <item>Paused</item>
+        <item>Dropped</item>
+        <item>Planning</item>
+        <item>Favourites</item>
+        <item>Rewatching</item>
+        <item>Rereading</item>
+        <item>All</item>
+    </string-array>
+
+    <string name="no_notifications">Tidak ada lagi notifikasi</string>
+    <string name="followers">Pengikut</string>
+
+    <string name="status">STATUS</string>
+    <string-array name="status" translatable="false">
+        <item>PLANNING</item>
+        <item>CURRENT</item>
+        <item>COMPLETED</item>
+        <item>REPEATING</item>
+        <item>PAUSED</item>
+        <item>DROPPED</item>
+    </string-array>
+    <string-array name="status_anime">
+        <item>PLANNING</item>
+        <item>WATCHING</item>
+        <item>COMPLETED</item>
+        <item>RE-WATCHING</item>
+        <item>PAUSED</item>
+        <item>DROPPED</item>
+    </string-array>
+    <string-array name="status_manga">
+        <item>PLANNING</item>
+        <item>READING</item>
+        <item>COMPLETED</item>
+        <item>RE-READING</item>
+        <item>PAUSED</item>
+        <item>DROPPED</item>
+    </string-array>
+    <string name="progress">KEMAJUAN</string>
+    <string name="score">SKOR</string>
+    <string name="score_suffix">" / 10"</string>
+    <string name="started_at">DIMULAI PADA</string>
+    <string name="completed_at">SELESAI PADA</string>
+    <string name="save">Menyimpan</string>
+    <string name="delete">Menghapus</string>
+    <string name="remove">Menghapus</string>
+
+    <string name="name">Nama</string>
+    <string name="name_romaji">Name Romaji</string>
+    <string name="mean_score">Skor Rata-rata</string>
+    <string name="format">Format</string>
+    <string name="status_title">Status</string>
+    <string name="total_eps">Jumlah Episode</string>
+    <string name="episodes">Semua episode)</string>
+    <string name="chapters">Bab</string>
+    <string name="total_divider">| %1$s</string>
+    <string name="total_chaps">Jumlah Bab</string>
+    <string name="ep_duration">Durasi Rata-Rata</string>
+    <string name="min">" menit "</string>
+    <string name="season">Musim</string>
+    <string name="start_date">Mulai tanggal</string>
+    <string name="end_date">Tanggal Berakhir</string>
+    <string name="source">Sumber</string>
+    <string name="main_studio">Studio</string>
+    <string name="genres">Genre</string>
+    <string name="description">Ringkasan</string>
+    <string name="characters">Karakter</string>
+    <string name="relations">Hubungan</string>
+    <string name="staff">Staf</string>
+    <string name="favourites">Favorit</string>
+    <string name="popularity">Kepopuleran</string>
+
+    <string name="roles">Peran</string>
+    <string name="details">Detail</string>
+
+    <string name="play_yt">Putar di Youtube</string>
+    <string name="eps">Semua episode</string>
+    <string name="ep">Episode</string>
+    <string name="chaps">bab</string>
+    <string name="chap">Bab</string>
+    <string name="wrong"><u>Wrong Title?</u></string>
+    <string name="source_not_found">Tidak dapat menemukan apa pun X( \n
+        Coba sumber lain.</string>
+    <string name="not_supported">%1$s tidak didukung!</string>
+    <string name="server_selector">Pilih Server</string>
+    <string name="auto_select_server">Server Pemilihan Otomatis</string>
+    <string name="make_default">Jadikan Default</string>
+    <string name="filler">Pengisi</string>
+    <string name="adult">Dewasa</string>
+    <string name="list_only">Hanya Daftar</string>
+    <string name="tag">Menandai</string>
+    <string name="tags">Tag</string>
+    <string name="synonyms">Sinonim</string>
+    <string name="trailer">Cuplikan</string>
+    <string name="opening">Pembukaan</string>
+    <string name="ending">Akhir</string>
+    <string name="prequel">Prekuel</string>
+    <string name="sequel">Sekuel</string>
+
+    <string name="anilist_settings">Pengaturan Anilis</string>
+    <string name="extension_settings">Ekstensi</string>
+    <string name="downloads">Unduhan</string>
+    <string name="offline_mode">Modus Luar Talian</string>
+    <string name="settings">Pengaturan</string>
+    <string name="extensions">Ekstensi</string>
+    <string name="extension_updates_available">Pembaruan ekstensi tersedia</string>
+    <string name="player_settings">Pengaturan Pemain</string>
+    <string name="recentlyListOnly">Hanya tampilkan konten saya di \"Baru Diperbarui\"</string>
+    <string name="download_manager_select">Manajer unduhan</string>
+    <string name="downloadInSd">Unduh dalam kartu SD</string>
+    <string name="noSdFound">Tidak ada kartu SD yang ditemukan.</string>
+    <string name="reader_settings">Pengaturan Pembaca</string>
+    <string name="default_source">Sumber Bawaan</string>
+    <string name="show_yt">Tautan Youtube</string>
+    <string name="default_ep_view">Tata Letak Episode Default</string>
+    <string name="default_chp_view">Tata Letak Bab Default</string>
+    <string name="ui">Antarmuka pengguna</string>
+    <string name="common">Umum</string>
+    <string name="theme">Tema</string>
+    <string name="ui_settings">Pengaturan UI</string>
+    <string name="about">Tentang</string>
+    <string name="desc">"ShiroA ツ dibuat dari sisa-sisa Saikou dan didasarkan pada keanggunan yang sederhana namun canggih. Ini adalah klien khusus Anilist, yang juga memungkinkan Anda mengunduh dan streaming Anime melalui ekstensi &amp; Manga.\nShiroA ツ secara harfiah berarti \"yang terbaik dari yang terbaik\" dalam bahasa Jepang. Nah, kami ingin mengatakan ini adalah aplikasi sumber terbuka terbaik untuk anime dan manga di Android, bagaimana menurut Anda?"</string>
+    <string name="devs">Pengembang/Pembantu</string>
+    <string name="disclaimer">Penafian</string>
+    <string name="full_disclaimer">- ShiroA ツ dengan sendirinya hanya menyediakan pelacak anime dan manga dan tidak menyediakan kemampuan streaming atau pengunduhan anime atau manga apa pun.
+        \n\n - ShiroA ツ atau pengembang/stafnya tidak menghosting konten apa pun yang ditemukan di dalam ShiroA ツ. Setiap dan semua informasi gambar dan anime/manga yang ditemukan di aplikasi diambil dari berbagai API publik (AniList, MyAnimeList, Kitsu).
+        \n\n - Selanjutnya, semua tautan anime/manga yang ditemukan di ShiroA ツ diambil dari berbagai plugin pihak ketiga dan tidak memiliki afiliasi dengan ShiroA ツ atau stafnya.
+        \n\n - ShiroA ツ atau pemiliknya tidak bertanggung jawab atas penyalahgunaan konten apa pun yang ditemukan di dalam atau di luar aplikasi dan tidak bertanggung jawab atas distribusi konten apa pun yang ditemukan di dalam aplikasi .
+        \n\n - Dengan menggunakan ShiroA ツ, Anda mematuhi fakta bahwa pengembang aplikasi tidak bertanggung jawab atas konten apa pun yang ditemukan di aplikasi. Anda juga menyetujui fakta bahwa Anda tidak boleh menggunakan ShiroA ツ untuk mengunduh atau mengalirkan konten berhak cipta apa pun.
+        \n\n - Jika ada masalah pelanggaran internet, silakan hubungi situs web sumber. Pengembang tidak memikul tanggung jawab hukum apa pun.</string>
+    <string name="version_current">Versi %1$s</string>
+    <string-array name="tips">
+        <item>You can Long Click an episode/chapter to Mark it as Read.</item>
+        <item>Long Clicking Shows can directly open List Editor.</item>
+        <item>There are few more easter eggs hidden in the App.</item>
+        <item>Challenge: Go to the very bottom of the Popular Anime &amp; Manga</item>
+        <item>Try Long Clicking the Show\'s Title.</item>
+        <item>Damn, why are you wasting your Time?</item>
+        <item>You can Long Click to copy this Message.</item>
+        <item>OMG LOOK! YOU FOUND AN EASTER EGG!?</item>
+        <item>You know who else likes this Animation?</item>
+        <item>MAL support? bruh.</item>
+        <item>Novels? more like NO vels.</item>
+        <item>Long Click the logo to check for App Update</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Theme 1</item>
+        <item>Theme 2</item>
+        <item>Theme 3</item>
+        <item> Theme 4</item>
+    </string-array>
+
+    <string name="video">Video</string>
+    <string name="video_info">Tampilkan Info Video</string>
+    <string name="source_info">Tampilkan Nama Sumber</string>
+    <string name="video_info_info">Menunjukkan kegunaan Resolusi video yang diputar saat ini<b>\"Multi Quality\"</b> servers.</string>
+    <string name="default_quality">Pemilihan Kualitas Otomatis</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="default_quality_info">Secara otomatis menggunakan kualitas terdekat yang disediakan secara default, HANYA diterapkan untuk Server \"Multi Quality\". Perubahan otomatis saat memutar video.</string>
+    <string name="default_playback_speed">Kecepatan Pemutaran Default : %1$s</string>
+    <string name="cursed_speeds">Kecepatan Terkutuklah</string>
+    <string name="resize_mode_button">Mode Pengubahan Ukuran Default</string>
+    <string name="subtitles">Subtitle</string>
+    <string name="subtitle_toggle">Subtitle</string>
+    <string name="primary_sub_color_select">Warna Subjudul</string>
+    <string name="secondary_sub_color_select">Warna Garis Subjudul</string>
+    <string name="secondary_sub_outline_type_select">Jenis Garis Besar Subjudul</string>
+    <string name="sub_background_color_select">Warna Latar Belakang Subjudul</string>
+    <string name="sub_window_color_select">Warna Jendela Subtitle</string>
+    <string name="sub_window_color_info">"Jendela subtitle adalah bagian kiri dan kanannya. (yang tidak memiliki latar belakang)"</string>
+    <string name="sub_color_info"><b>Note:</b> Changing above settings only affects Soft-Subtitles!</string>
+    <string name="sub_alpha">Transparansi Subjudul</string>
+    <string name="sub_text_example">Contoh Sub</string>
+    <string name="sub_font_select">Font Subjudul</string>
+    <string name="subtitle_font_size">Ukuran Subjudul</string>
+
+    <string name="auto">Mobil</string>
+    <string name="auto_play_next_episode">Putar Otomatis Episode Berikutnya</string>
+    <string name="auto_play_next_episode_info">Nonaktif secara otomatis jika tidak ada interaksi dengan pemain setelah 1 jam.</string>
+    <string name="auto_skip_fillers">Lewati Otomatis Pengisi</string>
+    <string name="auto_skip_fillers_info">Melewati episode pengisi saat menuju episode berikutnya.</string>
+
+    <string name="update_progress">Perbarui Kemajuan</string>
+    <string name="ask_update_progress_anime">Mintalah setiap Anime \"Secara Individual\"</string>
+    <string name="ask_update_progress_manga">Mintalah setiap Manga \"Secara Individual\"</string>
+    <string name="ask_update_progress_info_ep">Mematikannya akan selalu otomatis mengupdate progres saat episode ditonton.</string>
+    <string name="ask_update_progress_info_chap">Mematikannya akan selalu otomatis mengupdate progres saat bab dibaca.</string>
+    <string name="ask_update_progress_chapter_zero">Perbarui Kemajuan untuk Bab 0</string>
+    <string name="ask_update_progress_info_zero">Mengaktifkannya akan menambahkan item yang baru dimulai ke Anilist dengan kemajuan diatur ke bab 0.</string>
+    <string name="ask_update_progress_hentai">Perbarui Kemajuan untuk Hentai</string>
+    <string name="ask_update_progress_doujin">Perbarui Kemajuan untuk Doujin</string>
+    <string name="very_bold">sangat berani darimu sar</string>
+    <string name="watch_complete_percentage">Tonton Persentase Pembaruan</string>
+    <string name="watch_complete_percentage_info">Persentase kemajuan Anilist Anda harus diperbarui setelah menonton sebuah episode. \nIni juga menetapkan \% kapan pramuat tautan untuk episode berikutnya.</string>
+
+    <string name="behaviour">Perilaku</string>
+    <string name="always_continue">Selalu Lanjutkan dari bagian terakhir yang Anda tinggalkan</string>
+    <string name="pause_video_focus">Jeda saat tidak dalam Fokus</string>
+    <string name="gestures">Gerakan Volume &amp; Kecerahan</string>
+    <string name="double_tap">Ketuk dua kali untuk Mencari</string>
+    <string name="fast_forward">Maju Cepat</string>
+    <string name="double_tap_info">Mematikan akan menampilkan tombol maju &amp; mundur cepat</string>
+    <string name="seek_time">Carilah Waktu</string>
+    <string name="seek_time_info">Jumlah waktu dalam hitungan detik untuk maju dan mundur cepat.</string>
+    <string name="skip_time">Lewati Waktu</string>
+    <string name="skip_time_info">Menyetel ke 0, menyembunyikan Tombol Lewati.</string>
+    <string name="show_cast_button">Tampilkan Tombol Transmisi</string>
+    <string name="show_cast_button_info">Membutuhkan aplikasi \"Web Video Caster\" untuk melakukan transmisi.</string>
+    <string name="picture_in_picture">Gambar di dalam gambar</string>
+    <string name="always_minimize">Selalu Minimalkan</string>
+    <string name="always_minimize_info">Membutuhkan pengaktifan PiP, membuat pemutar berperilaku seperti Pemutar Youtube namun lebih baik.\nJuga menyembunyikan tombol PiP.</string>
+
+    <string name="app">Aplikasi</string>
+    <string name="immersive_mode">Sembunyikan bilah status</string>
+    <string name="immersive_modelist">Sembunyikan Bilah Status untuk daftar</string>
+    <string name="immersive_mode_info">Membutuhkan restart Aplikasi untuk diterapkan sepenuhnya.</string>
+    <string name="home_layout_show">Tampilkan/Sembunyikan Tata Letak di Beranda</string>
+    <string-array name="home_layouts">
+        <item>Continue Watching</item>
+        <item>Favourite Anime</item>
+        <item>Planned Anime</item>
+        <item>Continue Reading</item>
+        <item>Favourite Manga</item>
+        <item>Planned Manga</item>
+        <item>Recommended</item>
+        <item>Social Feeds</item>
+    </string-array>
+
+    <string name="startUpTab">Tab Permulaan Default</string>
+    <string name="small_view">Tampilan Kecil di Acara Trending</string>
+    <string name="animations">Animasi</string>
+    <string name="banner_animations">Animasi Spanduk</string>
+    <string name="layout_animations">Animasi Tata Letak</string>
+    <string name="trending_scroller">Penggulung Tren</string>
+    <string name="animation_speed">Kecepatan Keseluruhan</string>
+    <string name="empty_fav">Sepertinya Anda tidak menyukai apa pun,\nCobalah menyukai acara agar tetap ada di sini.</string>
+    <string name="fav_anime">Anime Favorit</string>
+    <string name="fav_manga">Manga Favorit</string>
+    <string name="restart_app">Mulai ulang aplikasinya?</string>
+    <string name="next">Berikutnya</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="current_page">Halaman saat ini</string>
+    <string name="dubbed">Dijuluki</string>
+    <string name="subbed">Subbed</string>
+    <string name="prefer_dub">Lebih suka Anime yang Dijuluki</string>
+    <string name="none">Tidak ada</string>
+    <string name="selected_dns">DNS yang dipilih</string>
+    <string name="dns_info">Ubah jika ISP Anda memblokir sumber apa pun</string>
+    <string name="keep_screen_on">Biarkan layarnya menyala</string>
+    <string name="layout">Tata Letak</string>
+    <string name="spaced_pages">Halaman Berspasi</string>
+    <string name="direction">Arah</string>
+
+    <string name="general">Umum</string>
+    <string name="show_system_bars">Tampilkan Bilah Status &amp; Navigasi</string>
+    <string name="auto_detect_webtoon">Deteksi Otomatis Webtoon</string>
+    <string name="auto_detect_webtoon_info">Jika Manga bukan dari Jepang, pembaca akan menggunakan Pengaturan Pembaca Webtoon secara default</string>
+    <string name="default_settings">Pengaturan Bawaan</string>
+    <string name="horizontal_scroll_bar">Bilah Gulir Horisontal</string>
+    <string name="dual_page">Halaman Ganda</string>
+    <string name="dual_page_info">Menampilkan 2 Gambar dalam 1 halaman, akan terlihat aneh jika ukuran gambar tidak sama</string>
+    <string name="true_colors">Warna sebenarnya</string>
+    <string name="true_colors_info">(Mode warna 32-bit) Mengurangi Banding pada gambar, dapat mempengaruhi kinerja.</string>
+    <string name="image_rotation">Rotasi Gambar</string>
+    <string name="hide_page_numbers">Sembunyikan Nomor Halaman</string>
+    <string name="sort_by_title">Urutkan berdasarkan Judul</string>
+    <string name="sort_by_last_updated">Urutkan berdasarkan Terakhir Diperbarui</string>
+    <string name="sort_by_score">Urutkan berdasarkan Skor</string>
+    <string name="over_scroll">Gulir ke Bab Berikutnya/Sebelumnya</string>
+    <string name="volume_buttons">Ubah halaman dengan Tombol Volume</string>
+    <string name="list_private">Pribadi</string>
+    <string name="wrap_images">Bungkus Gambar</string>
+    <string name="wrap_images_info">Sangat berguna untuk perangkat yang lebih besar, menghilangkan ruang antar gambar, jika ada.</string>
+    <string name="reload">Muat ulang</string>
+    <string name="share">Membagikan</string>
+    <string name="skip">Melewati</string>
+    <string name="other">Lainnya</string>
+    <string name="total_repeats">TOTAL ULANGI</string>
+    <string name="custom_lists">Daftar Kustom</string>
+    <string name="donate_desc">Ingin mendukung Pengelola ShiroA ツ\?\nPertimbangkan untuk Berdonasi</string>
+    <string name="donate_goal">Tidak ada tujuan donasi atm</string>
+    <string name="filter">Saring</string>
+    <string name="year">Tahun</string>
+    <string name="apply">Menerapkan</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="edit">Sunting</string>
+    <string name="this_season">Musim ini</string>
+    <string name="next_season">Musim selanjutnya</string>
+    <string name="previous_season">Musim Sebelumnya</string>
+    <string name="include_media_in_list">Sertakan Daftar</string>
+    <string name="release_calendar">Kalender</string>
+    <string name="planned_anime">Anime yang Direncanakan</string>
+    <string name="planned_manga">Manga yang Direncanakan</string>
+    <string name="image_long_clicking">Buka gambar dengan Mengklik Panjang</string>
+    <string name="always_continue_content">Selalu lanjutkan item sebelumnya</string>
+    <string name="search_source_list">Cari sumber berikutnya yang tersedia</string>
+    <string name="timestamp_proxy_desc">Berguna jika Anda mengalami Gagal Jabat Tangan</string>
+    <string name="timestamp_proxy">Gunakan Proxy untuk Stempel Waktu</string>
+    <string name="check_app_updates">Periksa Pembaruan</string>
+    <string name="author">Pengarang</string>
+    <string name="forks">Versi</string>
+    <string name="faq">Pertanyaan Umum</string>
+    <string name="accounts">Akun</string>
+    <string name="addons">Pengaya</string>
+    <string name="addons_desc">Dapatkan lebih banyak fitur dari aplikasi Anda</string>
+    <string name="myanimelist">Daftar Anime Saya</string>
+    <string name="login_with_anilist">Masuk dengan Anilist!</string>
+    <string name="anilist">Anilis</string>
+    <string name="account_help">Bagaimana cara kerjanya\?</string>
+    <string name="full_account_help">ShiroA ツ adalah Aplikasi Berbasis Anilist, jadi untuk sinkronisasi dengan Akun MAL Anda, diperlukan akun Anilist untuk login.
+        \nSetelah masuk dengan akun Anilist dan MAL, aplikasi akan secara otomatis memperbarui akun MAL Anda kapan pun:
+        \n- Tambahkan Media baru
+        \n- Mengedit Media
+        \n- Hapus Media
+
+        \n\nCatatan: Aplikasi tidak akan menyinkronkan Media lama dari Anilist ke MAL, disarankan untuk menyinkronkannya.
+        \n- Periksa __FAQ__ untuk _Metode Mudah_
+
+        \n\nDan untuk _Intermediate_ :
+        \n- [Cara menyinkronkan data Anilist dengan MAL](https://anilist.co/forum/thread/2654)
+        \n- [Cara menyinkronkan data MAL dengan Anilist](https://anilist.co/forum/thread/3393)
+
+        \n\n_Tidak perlu menyinkronkan akun MAL dan Anilist._</string>
+    <string name="notification_for_checking_subscriptions">Memeriksa notifikasi Langganan</string>
+    <string name="use_alarm_manager">Gunakan Manajer Alarm</string>
+    <string name="use_alarm_manager_reliable">Gunakan Manajer Alarm untuk Notifikasi yang andal</string>
+    <string name="use_alarm_manager_confirm">Menggunakan Alarm Manger dapat membantu melawan optimalisasi baterai, namun dapat menghabiskan lebih banyak baterai. Ini juga memerlukan izin Manajer Alarm.</string>
+    <string name="use">Menggunakan</string>
+    <string name="checking_subscriptions">Pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="subscriptions_checking_time_s">Frekuensi Pembaruan Langganan : %1$s</string>
+    <string name="subscriptions_checking_time">Frekuensi Pembaruan Langganan</string>
+    <string name="subscriptions_info">Jumlah waktu bagi ShiroA ツ untuk memeriksa Episode/Bab baru secara berkala\n(Lebih sedikit waktu akan menyebabkan lebih banyak konsumsi baterai)</string>
+    <string name="do_not_update">Jangan Perbarui</string>
+    <string name="loading_chap_number">Memuat Bab %1$s</string>
+    <string name="sort_by_release_date">Urutkan berdasarkan Tanggal Rilis</string>
+    <string name="crop_borders">Batas Pangkas</string>
+    <string name="note">CATATAN</string>
+
+    <string name="manage_extension_repos">Kelola Repo Ekstensi</string>
+    <string name="installing_extension">Memasang ekstensi</string>
+    <string name="installation_failed">Instalasi gagal: %1$s</string>
+    <string name="installation_complete">Pemasangan selesai</string>
+    <string name="extension_has_been_installed">Ekstensi telah berhasil dipasang.</string>
+    <string name="extension_installed">Ekstensi terpasang</string>
+    <string name="installed">Dipasang</string>
+    <string name="error_message">Kesalahan: %1$s</string>
+    <string name="install_step">Langkah: %1$s</string>
+    <string name="review">Tinjauan</string>
+    <string name="reviews">Ulasan</string>
+    <string name="discord_nothing_button">Hanya menampilkan tombol pertama</string>
+    <string name="discord_dantotsu_button">Tampilkan dantotsu di tombol kedua</string>
+    <string name="discord_anilist_button">Tampilkan profil AniList Anda sebagai gantinya</string>
+    <string name="discord_rich_presence">Kehadiran Kaya Perselisihan</string>
+    <string name="stream_on_dantotsu">Stream on ShiroA ツ</string>
+    <string name="view_my_anilist">Lihat AniList Saya</string>
+
+    <string name="jobless_message">BERENGSEK! ANDA BENAR-BENAR MENYENANGKAN PEKERJAAN\nANDA SUDAH MENCAPAI AKHIR</string>
+    <string name="file_manager_not_found">Tidak dapat menemukan Manajer File untuk membuka kartu SD</string>
+    <string name="error_loading_data">Terjadi kesalahan saat memuat data %1$s</string>
+    <string name="long_click_to_check_update">Klik panjang untuk memeriksa pembaruan aplikasi</string>
+    <string name="saved_to_path">Disimpan ke:\n%s</string>
+    <string name="setting_progress">Mengatur kemajuan ke %1$d</string>
+    <string name="login_anilist_account">Silakan Masuk ke akun AniList!</string>
+    <string name="congrats_vro">Selamat kepada Vro</string>
+    <string name="please_reload">Silakan Muat Ulang.</string>
+    <string name="copied_text">Menyalin "%1$s"</string>
+    <string name="back_to_exit">Tekan KEMBALI lagi untuk keluar</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet</string>
+    <string name="anilist_not_found">Sepertinya itu tidak ditemukan di Anilist.</string>
+    <string name="disabled_auto_skip">Dinonaktifkan Lompatan Otomatis OP &amp; ED</string>
+    <string name="auto_skip">Melewati Otomatis OP &amp; ED</string>
+    <string name="show_skip_time_stamp_button">Tampilkan Tombol Lewati Cap Waktu</string>
+    <string name="always_load_time_stamps">Selalu Muat Stempel Waktu</string>
+    <string name="auto_hide_time_stamps">Sembunyikan Cap Waktu Secara Otomatis</string>string
+    <string name="timestamps">Segmen</string>
+    <string name="auto_skip_op_ed">Lewati Otomatis OP/ED</string>
+    <string name="requires_time_stamps_to_be_enabled">Memerlukan Cap Waktu untuk Diaktifkan</string>
+    <string name="hide_skip_button">Hilangkan tombol cap waktu lewati setelah 5 detik</string>
+    <string name="copied_to_clipboard">Disalin ke Papan Klip</string>
+    <string name="first_episode">Ini adalah Episode pertama!</string>
+    <string name="reset_auto_update">Klik lama tombol \"Editor Daftar\" untuk mengatur ulang Pembaruan Otomatis</string>
+    <string name="autoplay_cancelled">Putar otomatis dibatalkan, tidak ada interaksi selama lebih dari 1 Jam.</string>
+    <string name="auto_select_server_error">Tidak dapat memilih server secara otomatis, Silakan coba lagi!</string>
+    <string name="stream_selection_empty">Tidak ada streaming yang tersedia! Coba sumber lain.</string>
+    <string name="logging_in_mal">Masuk ke MAL</string>
+    <string name="getting_user_data">Mendapatkan Data Pengguna</string>
+    <string name="no_next_episode">Tidak ada episode berikutnya yang ditemukan!</string>
+    <string name="enable_banner_animations">Coba aktifkan \"Animasi Spanduk\" di pengaturan</string>
+    <string name="please_login_anilist">Silakan Masuk dengan Anilist!</string>
+    <string name="auto_update_reset">Kemajuan Pembaruan Otomatis kini telah disetel ulang</string>
+    <string name="cant_wait">Tidak sabar, ya? baiklah X(</string>
+    <string name="downloading">Mengunduh…</string>
+    <string name="next_chapter_not_found">Bab Berikutnya Tidak Ditemukan</string>
+    <string name="first_chapter">Ini adalah bab pertama!</string>
+    <string name="adult_stuff">Barang Dewasa?( ͡° ͜ʖ ͡° )</string>
+    <string name="what_did_you_open">Apa yang kamu buka?</string>
+    <string name="error_getting_data">Kesalahan saat mengambil data dari Anilist.</string>
+    <string name="empty_response">Tanggapan kosong! Apakah internet Anda jelek?</string>
+    <string name="error_loading_mal_user_data">Terjadi kesalahan saat memuat data pengguna MAL</string>
+    <string name="error_loading_mal_data">Gagal memuat data dari MAL</string>
+    <string name="error_loading_anilist_user_data">Terjadi kesalahan saat memuat data pengguna Anilist</string>
+    <string name="episode_not_found">Tidak dapat menemukan episode : %1$s</string>
+    <string name="list_updated">Daftar Diperbarui</string>
+    <string name="deleted_from_list">Dihapus dari Daftar</string>
+    <string name="no_list_id">Tidak ada ID Daftar yang ditemukan…</string>
+    <string name="checking_for_update">Memeriksa Pembaruan</string>
+    <string name="dont_show_again">Jangan tampilkan lagi untuk versi %1$s</string>
+    <string name="no_update_found">Tidak Ada Pembaruan yang Ditemukan</string>
+    <string name="downloading_update">Mengunduh Pembaruan %1$s</string>
+    <string name="permission_required">Harap berikan izin untuk mengakses File &amp; Folder dari Pengaturan, &amp; Coba lagi.</string>
+    <string name="started_downloading">Mulai Mengunduh\n%1$s</string>
+    <string name="install_1dm">Silakan instal 1DM</string>
+    <string name="install_adm">Silakan instal ADM</string>
+    <string name="error_getting_image_data">Terjadi kesalahan saat mengambil data gambar</string>
+    <string name="loading_image_failed">Gagal Memuat Gambar</string>
+    <string name="copied_device_info">Info perangkat disalin</string>
+    <string name="anilist_down">Sepertinya Anilist sedang down, mungkin coba gunakan VPN atau Anda bisa menunggu sampai kembali.</string>
+    <string name="failed_to_load_data">Gagal memuat data tersimpan sebesar %1$d</string>
+    <string name="access_not_available">Tidak dapat mengakses</string>
+    <string name="mal_login_uri_not_found">Mal Login : Uri tidak ditemukan</string>
+    <string name="mal_login_code_challenge_not_found">Mal Login: codeChallenge tidak ditemukan</string>
+    <string name="mal_login_code_not_present">Mal Login : Kode tidak ada di URI yang dialihkan</string>
+    <string name="refresh_token_load_failed">Refresh Token : Gagal memuat token yang disimpan</string>
+    <string name="refreshing_token_failed">Penyegaran Token Gagal</string>
+    <string name="episode_release_countdown">Episode %1$d akan dirilis pada</string>
+    <string name="chapter_number">Bab %1$d</string>
+    <string name="chapter_release_timeout">%1$s telah tersedia untuk</string>
+    <string name="time_format">%1$d hari %2$d jam %3$d menit %4$d detik</string>
+    <string-array name="sort_by">
+        <item>Score</item>
+        <item>Popular</item>
+        <item>Trending</item>
+        <item>New Releases</item>
+        <item>A-Z</item>
+        <item>Z-A</item>
+        <item>Pure pain</item>
+    </string-array>
+    <string name="main_role">UTAMA</string>
+    <string name="supporting_role">MENDUKUNG</string>
+
+    <string name="status_finished">SELESAI</string>
+    <string name="status_releasing">LEPASKAN</string>
+    <string name="status_not_yet_released">BELUM DIRILIS</string>
+    <string name="status_cancelled">DIBATALKAN</string>
+    <string name="status_hiatus">HIATUS</string>
+
+    <string name="type_adaptation">ADAPTASI</string>
+    <string name="type_parent">INDUK</string>
+    <string name="type_character">KARAKTER</string>
+    <string name="type_summary">RINGKASAN</string>
+    <string name="type_alternative">ALTERNATIF</string>
+    <string name="type_other">LAINNYA</string>
+    <string name="type_source">SUMBER</string>
+    <string name="type_contains">MENGANDUNG</string>
+
+    <string name="read_on_dantotsu">Read on ShiroA ツ</string>
+    <string name="watch_on_dantotsu">Tonton di ShiroAツ</string>
+    <string name="view_profile_in_dantotsu">Lihat Profil di ShiroA ツ</string>
+    <string name="continue_episode">Lanjutkan : Episode %1$s%2$s\n%3$s</string>
+    <string name="filler_tag">- Pengisi</string>
+    <string name="continue_chapter">Lanjutkan : %1$s\n%2$s</string>
+    <string name="episode">"Episode"</string>
+    <string name="episode_num">"Episode %1$s"</string>
+    <string name="chapter">"Bab "</string>
+    <string name="chapter_num">"Bab %1$s"</string>
+    <string name="just_released">- Baru dirilis!</string>
+    <string name="checking_subscriptions_title">Memeriksa Langganan</string>
+    <string name="user_list">Daftar %2$s %1$s\</string>
+
+    <string name="speed">Kecepatan</string>
+    <string name="auto_update">Kemajuan Pembaruan Otomatis untuk %1$s?</string>
+    <string name="continue_from">Lanjutkan dari %1$s?</string>
+    <string name="title_update_progress">Perbarui kemajuan di AniList?</string>
+    <string name="incognito_will_not_update">Mode penyamaran akan tetap mengabaikan kemajuan.</string>
+    <string name="dont_ask_again">"Jangan tanya lagi untuk %1$s"</string>
+    <string name="default_speed">Kecepatan Bawaan</string>
+    <string name="default_resize_mode">Mode Pengubahan Ukuran Default</string>
+    <string name="primary_sub_color">Sub Warna Primer</string>
+    <string name="outline_sub_color">Sub Warna Garis Besar</string>
+    <string name="outline_type">Jenis Garis Besar</string>
+    <string name="subtitle_font">Font Subjudul</string>
+
+
+    <string name="yes">Ya</string>
+    <string name="no">TIDAK</string>
+    <string name="ok">OKE</string>
+    <string name="reset">Mengatur ulang</string>
+    <string name="close">Menutup</string>
+    <string name="no_chapter">Tidak Ada Bab</string>
+    <string name="content_18">Aktifkan konten 18+ dari pengaturan Anilist Anda</string>
+    <string name="available">Tersedia</string>
+    <string name="lets_go">Ayo pergi</string>
+    <string name="cope">Mengatasi</string>
+
+    <string name="watched_num">"Menonton"</string>
+    <string name="read_num">"Membaca "</string>
+    <string name="episodes_out_of">"dari"</string>
+    <string name="chapters_out_of">"dari"</string>
+    <string name="episodes_total_of">"Jumlah dari "</string>
+    <string name="chapters_total_of">"Jumlah dari "</string>
+    <string name="no_description_available">"Deskripsi tidak tersedia"</string>
+
+    <string-array name="manga_directions">
+        <item>Top to Bottom</item>
+        <item>Right to Left</item>
+        <item>Bottom to Top</item>
+        <item>Left to Right</item>
+    </string-array>
+
+    <string-array name="manga_layouts">
+        <item>Paged</item>
+        <item>Continuous Paged</item>
+        <item>Continuous</item>
+    </string-array>
+
+    <string name="selected">Terpilih</string>
+    <string name="found">Ditemukan</string>
+
+    <string name="age">"__Usia:__ "</string>
+    <string name="birthday">\n"__Ulang Tahun:__ "</string>
+    <string name="gender">\n"__Jenis Kelamin:__ "</string>"
+
+    <string name="male">Pria</string>
+    <string name="female">Perempuan</string>
+
+    <string name="question_1">What is ShiroA ツ?</string>
+    <string name="answer_1">ShiroA ツ dibuat dari abu Saikou dan didasarkan pada keanggunan yang sederhana namun canggih. Ini adalah klien khusus Anilist, yang juga memungkinkan Anda melakukan streaming &amp; mengunduh Anime / Manga melalui ekstensi. \n&gt;ShiroA ツ (断トツ; Dan-totsu) secara harfiah berarti yang terbaik dari yang terbaik dalam bahasa Jepang. Kami ingin mengatakan ini adalah aplikasi open source terbaik untuk anime dan manga di Android, tapi hei, Cobalah sendiri &amp; nilai!</string>
+
+    <string name="question_2">Apa sajakah fitur ShiroA ツ?</string>
+    <string name="answer_2">Beberapa fitur ShiroA ツ yang dapat disebutkan adalah\n\n- Cara mudah dan fungsional untuk menonton anime dan membaca manga dan novel ringan, Bebas Iklan.\n- Aplikasi sumber terbuka sepenuhnya dengan UI &amp; Animasi yang bagus\n- pihak ketiga dukungan plugin \n- Sinkronisasi anime dan manga secara real-time dengan AniList. Kategorikan anime dan manga dengan mudah berdasarkan status Anda saat ini. (Didukung oleh AniList)\n- Temukan semua acara menggunakan daftar semua anime yang sedang tren, populer, dan sedang berlangsung berdasarkan skor secara menyeluruh dan sering diperbarui.\n- Lihat detail lengkap tentang acara anime, film, dan judul manga. Ia juga memiliki kemampuan untuk menghitung mundur ke episode anime berikutnya yang ditayangkan. (Didukung oleh AniList &amp; MyAnimeList)</string>
+
+    <string name="question_3">Apa perbedaan antara versi Stabil, Beta, dan Alfa?</string>
+    <string name="answer_3">Rilis Stabil adalah versi yang telah diuji selengkap mungkin dan dapat diandalkan semaksimal mungkin.\n\nRilis Beta adalah versi yang dimaksudkan untuk menguji fitur baru atau menyediakan perbaikan terbaru.\n\nAlpha rilis seperti versi beta tetapi memiliki banyak bug dan Anda hanya dapat menemukannya di server [discord](https://discord.gg/) kami. Aplikasi ini sering diperbarui dan kemungkinan besar rusak.\n\nJika Anda menginginkan aplikasi yang andal, gunakan versi Stabil. Jika Anda menginginkan fitur dan bug terbaru dan terhebat, pilihlah Alpha.</string>
+
+    <string name="question_4">Apakah ShiroA ツ tersedia untuk PC?</string>
+    <string name="answer_4">Saat ini tidak ada (untuk Windows dan Linux). Tidak ada perkiraan kapan akan tersedia. Tetapi Anda dapat mengunduh emulator Android apa pun dan menjalankan ShiroA ツ di atasnya. Bagi pengguna Windows 11, dapat menggunakan Subsistem Windows untuk Android (WSA) untuk menjalankan ShiroA di Windows.</string>
+
+    <string name="question_5">Apakah ShiroA ツ tersedia untuk iOS?</string>
+    <string name="answer_5">Tidak, yang terbaik yang bisa kita lakukan hanyalah mengukir ShiroA ツ pada sebuah apel.</string>
+
+    <string name="question_6">Mengapa statistik saya tidak diperbarui?</string>
+    <string name="answer_6">Ini karena diperbarui setiap 48 jam secara otomatis (oleh Anilist). Jika Anda benar-benar perlu memperbarui statistik, Anda dapat memperbarui statistik secara paksa setelah membuka [link] ini(https://anilist.co/settings/lists).</string>
+
+    <string name="question_7">Bagaimana cara mengunduh Anime?</string>
+    <string name="answer_7">Ada dua metode pengunduhan saat ini. Yang satu bersifat internal dan yang lainnya bersifat eksternal. Jika Anda mendownload secara internal, maka episode tersebut dapat dilihat di dalam aplikasi tetapi hanya aplikasi yang dapat membuka episode tersebut, Anda tidak dapat memindahkan atau membagikannya. Pilihan lainnya adalah menggunakan pengunduhan eksternal. Dibutuhkan pengelola unduhan untuk mengunduh dan pemutar video terpisah untuk menonton. Download eksternal dapat dibagikan tetapi Anda tidak dapat melihatnya dalam aplikasi ShiroA ツ.\n\n•Untuk mendownload secara internal:\n\n1. Ketuk tombol unduh.\n2. Pilih server dan kualitas video.\n3. Untung.\n\n•Untuk mengunduh secara eksternal:\n\n 1. Unduh 1DM atau ADM dari Google Play Store.
+        \n2. Masuk ke aplikasi, berikan akses penyimpanan dan atur preferensi Anda (kecepatan pengunduhan, jalur pengunduhan, dll (opsional))
+        \n3. Sekarang buka \`ShiroA ツ &gt; Pengaturan &gt; Umum &gt; Pengelola Unduhan\` dan pilih pengelola unduhan yang baru saja Anda siapkan.
+        \n4. Buka episode yang Anda inginkan dan tekan ikon unduh di server mana pun. Mungkin ada popup untuk mengatur preferensi Anda lagi, cukup tekan "Unduh" dan itu akan disimpan di jalur yang diarahkan.
+
+        \n\nCatatan: Pengunduhan langsung juga dapat dilakukan tanpa pengelola, namun hal ini tidak disarankan.
+\n\nCatatan Aneh: Episode yang diunduh secara internal disimpan di \`Android/data/ani.dantotsu.*/files/Anime_Downloads\`\nAnda tidak dapat memutar file tersebut karena dalam format \`.exo\`, dibagi menjadi ratusan potongan-potongan dan dienkripsi.</string>
+
+    <string name="question_9">Bagaimana cara mengaktifkan konten NSFW?</string>
+    <string name="answer_9">Anda dapat mengaktifkan konten NSFW dengan mengaktifkan konten 18+ dari [link] ini(https://anilist.co/settings/media). Anda juga harus mengaktifkan ekstensi NSFW di \`Pengaturan &gt; Ekstensi &gt; Ekstensi NSFW\`</string>
+
+    <string name="question_10">Bagaimana cara mengimpor daftar MAL/Kitsu saya ke Anilist?</string>
+    <string name="answer_10">Inilah cara Anda melakukannya,\n\nEkspor:\n\n1. Buka [tautan] ini(https://malscraper.azurewebsites.net).\n2. Berikan nama pengguna Kitsu/MAL Anda dan unduh daftar anime dan manga. (Mereka akan berada dalam format XML)\nCatatan: Anda harus menulis nama pengguna pelacak yang Anda pilih\n\nImpor:\n\n1. Setelah mengekspor daftar anime dan manga Anda dari Kitsu/MAL, sekarang buka [di sini](https://anilist.co/settings/import) \n2. Pilih/letakkan file XML anime pada kotak di atas.\n|→Pilih/letakkan file XML manga pada kotak di bawah.</string>
+
+    <string name="question_11">Bagaimana cara mengimpor daftar Anilist/Kitsu saya ke MAL?</string>
+    <string name="answer_11">Inilah cara Anda melakukannya,\n\nEkspor:\n\n1. Buka [tautan] ini(https://malscraper.azurewebsites.net/). \n2. Berikan nama pengguna Anilist/ID Kitsu Anda di kotak \'Nama Pengguna/ID Pengguna Kitsu\'. \n3. Pilih jenis daftar dan aktifkan \'update_on_import\'. \n4. Unduh filenya; itu akan dalam format .xml. Pastikan untuk mengunduh daftar Anime dan Manga.\n\nImpor:\n1. Untuk mengimpornya ke akun MAL Anda, buka [tautan] ini(https://myanimelist.net/import.php) dan pilih \'Impor MyAnimeList\' sebagai jenis impor. \n2. Tekan \'Pilih File\'dan pilih file XML daftar anime/manga yang diunduh. \n3. Tekan \'Impor Data\'. \nSelamat, Anda baru saja mengimpor daftar yang dipilih ke akun MAL Anda.</string>
+
+    <string name="question_12">Mengapa saya tidak dapat menemukan judul anime/manga tertentu?</string>
+    <string name="answer_12">Katakanlah Anda mencari Castlevania di ShiroA ツ. Tapi Anilist tidak memilikinya, jadi ShiroA juga tidak memilikinya.\nSolusi untuk masalah di atas adalah sebagai berikut:\n1) Kunjungi anime mana pun yang tidak ada dalam daftar Anda.\n2) Buka bagian tontonan.\n3) Pilih sumber mana pun dan tekan \'Judul Salah?\'.\n4) Sekarang cari Castlevania (Anime yang Anda cari) dan pilih.\n5) NIKMATI!\n\nJika kamu tidak bisa menemukan animenya meski melalui langkah-langkah ini, maka sialnya kamu sobat. Bahkan sumber itu tidak memilikinya. Coba sumber lain.</string>
+
+    <string name="question_13">Bagaimana cara memperbaiki sumber yang memilih judul yang salah?</string>
+    <string name="answer_13">ShiroA ツ sendiri tidak menghosting apa pun tetapi bergantung pada sumber lain. Saat menampilkan episode, ia memilih hasil pertama yang diberikan oleh sumber setelah mencari judulnya. ShiroA ツ tidak memiliki cara untuk mendeteksi apakah itu sah atau tidak. Jadi, untuk ini, kita punya \'Judul Salah?\' tepat di bawah nama sumber (di atas tata letak). Anda dapat memilih hasil/judul yang benar dengan menekannya dan menikmati episodenya.</string>
+
+    <string name="question_14">Bagaimana cara membaca manga berwarna?</string>
+    <string name="answer_14">Apakah Anda sedang mencari manga berwarna? Maaf untuk membocorkannya kepada Anda, tetapi hanya sedikit manga yang memiliki versi berwarna. Yang memiliki versi berwarna juga tersedia di ShiroA ツ. Katakanlah Anda ingin membaca versi berwarna dari gergaji mesin. Kemudian ikuti langkah-langkah di bawah ini ↓\n\n1) Buka Chainsaw Man\n2) Tekan \'Baca\'\n3) Pilih sumber yang berfungsi\n4) Tekan \'Judul Salah\'\n5) Pilih versi berwarna manusia gergaji\n6) Selamat menikmati\n\nCatatan: Banyak sumber tidak menyediakan versi berwarna meskipun tersedia di suatu tempat di internet. Jadi cobalah sumber lain. Jika tidak ada sumber yang memilikinya, maka versi berwarna dari manga yang Anda inginkan tidak akan ada.</string>
+
+    <string name="question_15">Jabat tangan gagal? Mengapa tidak ada stempel waktu yang dimuat?</string>
+    <string name="answer_15">Anda dapat memperbaiki masalah ini dengan mengaktifkan \'Proxy\' dari \n\`Pengaturan &gt; Anime &gt; Pengaturan Pemain &gt; Stempel Waktu &gt; Proxy\`.\nJika stempel waktu masih belum dimuat tetapi popup gagal jabat tangan telah diperbaiki, maka episode yang Anda sedang menonton, hanya saja belum memiliki stempel waktu untuk itu.</string>
+
+    <string name="question_16">Tidak dapat menemukan apa pun di sumber?</string>
+    <string name="answer_16">Beberapa perbaikan mendasar adalah : \n\n• Perbarui ekstensi Anda jika ada. \n• Buka Tampilan Web dan tunggu hingga dimuat. Setelah pemuatan selesai, kembali. (Jika Tampilan Web menunjukkan kesalahan 404 atau yang serupa, kemungkinan besar sumber Anda tidak aktif)\n• Gunakan DNS yang berbeda dari pengaturan Anda, sebaiknya Libre. \n• Coba VPN yang tepercaya. (Anda harus mengulangi langkah 1 setelah ini) \n\nJika tidak ada langkah di atas yang berhasil, gunakan sumber lain atau bergabunglah dengan [discord](https://discord.gg/) kami untuk mendapatkan bantuan.</string>
+
+    <string name="question_17">Beberapa tip dan trik yang berguna</string>
+    <string name="answer_17">Berikut ini menyajikan beberapa tips dan trik yang mungkin Anda ketahui atau tidak - \n \n \n - Dengan menekan terus logo ShiroA ツ di pengaturan, Anda dapat memeriksa apakah ada pembaruan baru secara manual. \n \n - Menekan terus pesan kesalahan/tag/sinonim atau judul akan menyalinnya. \n \n - Anda dapat membuka episode dengan aplikasi lain dengan menekan terus server mana pun untuk episode tersebut. Ini membantu dalam streaming episode menggunakan pemutar video lain atau mengunduh episode menggunakan pengelola unduhan. \n \n - Anda dapat mengatur daftar khusus menggunakan [tautan](https://anilist.co/settings/lists) ini. (Anda harus masuk) \n \n - Jika episode/bab Anda tidak dilanjutkan secara otomatis setelah Anda selesai menonton/membacanya, maka tekan terus bilah status (tombol rencanakan/ulangi/tonton) anime/manga itu. Saat berikutnya Anda memulai bab/menyelesaikan episode, Anda akan menemukan popup. Tekan ya di sana.</string>
+
+
+    <string name="subscribed_notification">Berlangganan! Menerima notifikasi ketika episode baru dirilis pada %1$s.</string>
+
+    <string name="unsubscribed_notification">Jika berhenti berlangganan, Anda tidak akan menerima pemberitahuan apa pun.</string>
+    <string name="episode_plural">Semua episode</string>
+    <string name="episode_singular">Episode</string>
+    <string name="chapter_singular">Bab</string>
+    <string name="chapter_plural">Bab-bab</string>
+
+    <string name="filter_status">"Statusnya : %1$s"</string>
+    <string name="filter_source">"Sumber: %1$s"</string>
+    <string name="filter_format">"Formatnya: %1$s"</string>
+    <string name="filter_country">"Negara: %1$s"</string>
+    <string name="filter_sort">"Urutkan : %1$s"</string>
+    <string name="filter_exclude">"Bukan %1$s"</string>
+    <string name="search_by_image">Cari berdasarkan Gambar</string>
+    <string name="upload_image">Unggah Gambar</string>
+    <string name="similarity_text">Kesamaan: %1$s %%</string>
+    <string name="time_range">Dari %1$s hingga %2$s</string>
+    <string name="invalid_url">URL tidak valid</string>
+    <string name="no_anilist_id_found">Tidak ada ID Anilist yang ditemukan</string>
+    <string name="error_loading_image">Terjadi kesalahan saat memuat gambar</string>
+    <string name="discord_logout_success">Berhasil Keluar</string>
+    <string name="discord_try_again">Coba masuk lagi</string>
+    <string name="error_loading_discord_user_data">Kesalahan saat memuat Data Pengguna Discord</string>
+    <string name="discord_warning">Dengan masuk, perselisihan Anda sekarang akan menampilkan apa yang Anda tonton &amp; baca di ShiroA ツ\n\nJika Anda berada dalam mode tak terlihat, masuk akan membuat Anda online, ketika Anda membuka ShiroA ツ.\n\nIni melanggar TOS Discord . \nMeskipun Discord tidak pernah melarang siapa pun untuk menggunakan Custom Rich Presence (yang digunakan ShiroA ツ), Anda tetap diperingatkan.\n\nDantotsu tidak bertanggung jawab atas apa pun yang terjadi pada akun Anda.</string>
+    <string name="warning">Peringatan</string>
+    <string name="view_anime" translatable="false">Lihat Anime</string>
+    <string name="view_manga" translatable="false">Lihat Manga</string>
+    <string name="force_legacy_installer">Paksa Penginstal Lama</string>
+    <string name="extensions_settings">Ekstensi</string>
+    <string name="NSFWExtention">Ekstensi NSFW</string>
+    <string name="skip_loading_extension_icons">Lewati pemuatan ikon ekstensi</string>
+    <string name="use_material_you">Materi Anda</string>
+    <string name="use_app_theme">Gunakan Tema Aplikasi</string>
+    <string name="extension_specific_dns">DNS khusus ekstensi</string>
+    <string name="theme_">Tema:</string>
+    <string name="user_agent">Agen pengguna</string>
+    <string name="custom_theme">Tema Khusus:</string>
+    <string name="use_custom_theme">Tema khusus</string>
+    <string name="use_unique_theme_for_each_item">Tema sebagai Anime/Manga</string>
+    <string name="oled_theme_variant">Varian tema OLED</string>
+    <string name="installed_anime">Anime Terpasang</string>
+    <string name="available_anime">Anime yang tersedia</string>
+    <string name="installed_manga">Manga Terpasang</string>
+    <string name="color_picker">Pemilih warna</string>
+    <string name="random_selection">Seleksi acak</string>
+    <string name="incognito_mode">Mode penyamaran</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="configure">Konfigurasikan</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="upcoming_anime">Anime yang akan datang</string>
+    <string name="airing_image">Gambar Tayang</string>
+    <string name="anime_downloads">unduhan anime</string>
+    <string name="purge_anime_downloads">Hapus semua unduhan Anime</string>
+    <string name="purge_manga_downloads">Hapus semua Unduhan Manga</string>
+    <string name="purge_novel_downloads">Hapus semua Unduhan Novel</string>
+    <string name="requires_android_12">Membutuhkan Android 12+</string>
+    <string name="share_username_in_crash_reports">Bagikan nama pengguna</string>
+    <string name="pinned_sources">Sumber yang Disematkan</string>
+    <string name="backup_restore">Cadangkan dan Pulihkan</string>
+    <string name="restore_settings">Pengaturan Impor</string>
+    <string name="restore_settings_underline"><u>Restore Settings</u></string>
+    <string name="try_internal_cast_experimental">Coba Pemeran Internal (Eksperimental)</string>
+
+    <string name="comments">Komentar</string>
+    <string name="newest">Terbaru</string>
+    <string name="oldest">Tertua</string>
+    <string name="highest_rated">Rating tertinggi</string>
+    <string name="lowest_rated">Peringkat terendah</string>
+    <string name="compare"><u>Compare</u></string>
+    <string name="view_following">Lihat Mengikuti</string>
+    <string name="menu">menu</string>
+    <string name="view_followers">Lihat Pengikut</string>
+    <string name="no_fav_anime">Pengguna tidak memiliki Anime favorit</string>
+    <string name="no_fav_manga">Pengguna tidak memiliki Manga favorit</string>
+    <string name="fav_character">Karakter Favorit</string>
+    <string name="fav_staff">Staf Favorit</string>
+
+    <string name="stats">Statistik</string>
+    <string name="days_watched">Berhari-hari ditonton</string>
+    <string name="total_anime">Jumlah Anime</string>
+    <string name="anime_mean_score">Skor Rata-Rata Anime</string>
+    <string name="volume_read">Volume dibaca</string>
+    <string name="total_manga">Jumlah Manga</string>
+    <string name="manga_mean_score">Skor Rata-Rata Manga</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="follow">Mengikuti</string>
+    <string name="following">Mengikuti</string>
+    <string name="unfollow">Berhenti mengikuti</string>
+    <string name="follows_you">Mengikutimu</string>
+    <string name="mutual">Saling</string>
+    <string name="success">Kesuksesan</string>
+    <string name="error">Beberapa kesalahan terjadi</string>
+    <string name="error_msg">Kesalahan: %1$s</string>
+    <string name="please_wait">Harap tunggu</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="no_shows_to_display">Tidak ada acara untuk ditampilkan</string>
+    <string name="extension_name">Nama Ekstensi</string>
+    <string name="extension_version">Versi: kapan</string>
+    <string name="enter_password_to_decrypt_file">Masukkan kata sandi Anda untuk mendekripsi file</string>
+    <string name="show_rotate_button">Tampilkan Tombol Putar</string>
+    <string name="default_manga_settings">Pengaturan Manga Default</string>
+    <string name="use_dark_theme">Gunakan Tema Gelap</string>
+    <string name="use_oled_theme">Gunakan Tema OLED</string>
+    <string name="scanlators">Pemindai</string>
+    <string name="exporting_requires_encryption">Mengekspor kredensial memerlukan kata sandi untuk enkripsi.</string>
+    <string name="manga_queue">Antrian Manga (WIP)</string>
+    <string name="anime_queue">Antrian Anime (WIP)</string>
+    <string name="no_offline_manga_found">Tidak ada manga offline yang ditemukan</string>
+    <string name="sort">Menyortir</string>
+    <string name="download">Unduh</string>
+    <string name="scanlator">Pemindai</string>
+    <string name="set_cookies">Setel Cookie</string>
+    <string name="open_website">Buka Situs Web</string>
+
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor duduk amet. Ini bukan merupakan pilihan internal yang kecuali jika Anda ingin melakukannya. Ini adalah pekerjaan yang sangat sulit dan sulit untuk dilakukan. Dan doloribus recusandae id laudantium Quis qui natus velit in voluptatem voluptatem!
+
+Dan besarnya quasi vel nemo omnis dan voluptate quisquam vel corporis fuga ut consequatur voluptas At quis veniam. Dengan asumsi illum id minus veritatis id consequatur ipsum est quod Corrupti quo adipisci sint. Yang menjelaskan doloribus dan kecuali bagian dalam adalah reiciendis laboriosam ut explicabo veniam ut culpa mollitia in ducimus sint aut autem voluptatem! Dalam consectetur laudantium non omnis saepe nam sint fuga.
+
+Non quae tempore quo provident laudantium qui illo dolor vel quia dolor et exerciteem adipisci quo nemo aliquam ea numquam beatae. Eum Quis dolore aut quia accusantium sed vero autem vel quaerat eaque et beatae dicta non delectus galisum non ullam nulla.</string>
+    <string name="log_to_file">Masuk ke Berkas</string>
+    <string name="logging_warning">Masuk ke suatu file akan memperlambat aplikasi. Aktifkan hanya jika Anda mengalami masalah.</string>
+    <string name="radius">Radius</string>
+    <string name="sampling">Contoh</string>
+    <string name="blur_banners">Spanduk Buram</string>
+    <string name="blur">Mengaburkan</string>
+    <string name="hide_scroll_bar">Sembunyikan Bilah Gulir</string>
+    <string name="view_on_anilist" translatable="false">Lihat di AniList</string>
+    <string name="anilist_notification_filters">Filter Pemberitahuan</string>
+    <string name="anilist_notifications_checking_time">Frekuensi pembaruan notifikasi anilis : %1$s</string>
+    <string name="comment_notification_checking_time">Frekuensi pembaruan notifikasi komentar : %1$s</string>
+    <string name="activities">Kegiatan</string>
+
+    <string name="incorrect_password">kata kunci Salah</string>
+    <string name="password_cannot_be_empty">Kata sandi tidak boleh kosong</string>
+    <string name="unknown_file_type">Tipe berkas tidak diketahui</string>
+    <string name="error_importing_settings">Terjadi kesalahan saat mengimpor setelan</string>
+    <string name="download_manager">Manajer unduhan</string>
+    <string name="enter_password">Masukkan kata kunci</string>
+
+    <string name="you_cursed">youwu sudah dikutuk :pwayge:</string>
+    <string name="cursed_yt" translatable="false">https://www.youtube.com/watch?v=dQw4w9WgXcQ</string>
+    <string name="purge_confirm">Apakah Anda yakin ingin membersihkan semua %1$s unduhan?</string>
+
+    <string name="delete_fail_reason">Gagal menghapus karena… %1$s</string>
+    <string name="delete_fail">Gagal menghapus</string>
+    <string name="hide_replies">Sembunyikan balasan</string>
+    <string name="view_reply">Lihat balasan</string>
+    <string name="view_replies">Lihat balasan</string>
+    <string name="view_replies_count">Lihat %1$d balasan</string>
+    <string name="replying_to">Membalas %1$s</string>
+
+    <string name="delete_comment">Hapus Komentar</string>
+    <string name="delete_comment_confirm">Apakah Anda yakin ingin menghapus komentar ini?</string>
+    <string name="comment_deleted">Komentar Dihapus</string>
+
+    <string name="ban_user">Larangan Pengguna</string>
+    <string name="ban_user_confirm">Apakah Anda yakin ingin mencekal pengguna ini?</string>
+    <string name="user_banned">Pengguna Dilarang</string>
+
+    <string name="report_comment">Laporkan Komentar</string>
+    <string name="report_comment_confirm">Hanya laporkan komentar yang melanggar aturan. Apakah Anda yakin ingin melaporkan komentar ini?</string>
+    <string name="comment_reported">Komentar Dilaporkan</string>
+
+    <string name="list">Daftar</string>
+    <string name="grid">jaringan</string>
+    <string name="compact">Kompak</string>
+
+    <string name="webview_not_installed">WebView tidak diinstal</string>
+
+    <string name="video_quality">Kualitas: %1$dp</string>
+    <string name="size_unknown">Ukuran Tidak Diketahui</string>
+    <string name="mb_size">%1$s MB</string>
+    <string name="button_restore">Memulihkan</string>
+    <string name="button_backup">Cadangan</string>
+    <string name="no_location_selected">Tidak ada lokasi yang dipilih</string>
+    <string name="enjoying_app">Menikmati Aplikasinya?</string>
+    <string name="consider_donating">Pertimbangkan untuk berdonasi!</string>
+    <string name="no_moners">tidak ada moner :(</string>
+    <string name="you_be_rich">Tidak apa-apa, kamu akan segera menjadi orang kaya :prayge:</string>
+    <string name="donate">berdonasi :)</string>
+    <string name="do_it">Lakukan!</string>
+    <string name="password">Kata sandi</string>
+
+    <string name="profile_stats_widget">Lacak kemajuan langsung dari layar beranda Anda</string>
+    <string name="anime_watched">Anime\nDitonton</string>
+    <string name="manga_read">Manga\nBaca</string>
+    <string name="loading">Memuat…</string>
+    <string name="user_stats">Statistik %1$s</string>
+
+    <string name="please">Silakan</string>
+    <string name="log_in">Gabung</string>
+    <string name="or_join">atau bergabung</string>
+
+    <string name="top_background_color">Warna latar belakang atas</string>
+    <string name="bottom_background_color">Warna Latar Belakang Bawah</string>
+    <string name="countdown_text_color">Warna Teks Hitung Mundur</string>
+    <string name="title_color">Warna Judul</string>
+    <string name="stat_text_color">Warna Teks Statistik</string>
+    <string name="placeholder">Penampung</string>
+
+    <string name="anime_add_repository">Tambahkan Repo Anime</string>
+    <string name="manga_add_repository">Tambahkan Repo Manga</string>
+    <string name="edit_repositories">Edit repositori</string>
+    <string name="rem_repository">Hapus repositori?</string>
+
+    <string name="trending_movies">Film yang Sedang Tren</string>
+    <string name="include_list">Sertakan daftar</string>
+    <string name="top_rated">Nilai tertinggi</string>
+    <string name="most_favourite">Paling Favorit</string>
+    <string name="trending_manhwa">Manhwa yang sedang tren</string>
+    <string name="liked_by">Disukai Oleh</string>
+    <string name="adult_only_content">Konten khusus dewasa</string>
+    <string name="dir_error">Jalur Anda tidak dapat ditentukan</string>
+    <string name="dir_access">Akses unduhan</string>
+    <string name="dir_access_msg">Silakan pilih direktori untuk menyimpan unduhan Anda</string>
+    <string name="change_download_location">Ubah Lokasi Unduhan</string>
+    <string name="download_location_msg">Yakin ingin mengubah lokasi pengunduhan?\nUnduhan lama mungkin tidak dapat diakses lagi.</string>
+    <string name="report">Laporan</string>
+    <string name="ban">Melarang</string>
+    <string name="voice_actors">Aktor Suara</string>
+    <string name="download_permission_required">Izin diperlukan untuk mengunduh</string>
+    <string name="media">Media</string>
+    <string name="users">Pengguna</string>
+    <string name="social">Sosial</string>
+    <string name="auto_skip_recap">Lewati Rekap Otomatis</string>
+    <string name="use_anilist_icon">Gunakan Ikon AniList</string>
+    <string name="audio_tracks">Trek Audio</string>
+    <string name="disabled_track">Dengan disabilitas</string>
+    <string name="invalid_track">Tidak sah</string>
+    <string name="unknown_track">\[%1$s\] Tidak diketahui</string>
+    <string name="accounts_desc">Anilist, MAL, dan Discord.\nApa lagi yang Anda perlukan?</string>
+    <string name="theme_desc">Ubah suasana aplikasi Anda</string>
+    <string name="extensions_desc">Kelola repositori terpercaya Anda</string>
+    <string name="common_desc">UI dan hal-hal nakal lainnya</string>
+    <string name="notifications_desc">Sesuaikan berita dan pembaruan Anda</string>
+    <string name="anime_desc">Pilih cara Anda menonton</string>
+    <string name="manga_desc">Pilih cara Anda membaca</string>
+    <string name="about_desc">Pelajari lebih lanjut tentang ShiroA ツ</string>
+    <string name="faq_desc">Pertanyaan umum tentang ShiroA ツ</string>
+    <string name="check_app_updates_desc">Periksa Github untuk pembaruan aplikasi</string>
+    <string name="share_username_in_crash_reports_desc">Bagikan nama pengguna dalam laporan kerusakan</string>
+    <string name="devs_desc">Pekerjaan ShiroA ツ\ yang tidak dibayar</string>
+    <string name="forks_desc">Lebih mirip ShiroA ツ</string>
+    <string name="disclaimer_desc">Sesuatu yang perlu diingat</string>
+    <string name="enable_torrent_desc">Ini akan menjalankan server torrent di latar belakang</string>
+    <string name="player_settings_desc">Semua pengaturan terkait pemutar</string>
+    <string name="purge_anime_downloads_desc">Hapus semua Anime yang diunduh</string>
+    <string name="prefer_dub_desc">Pilih Dub media secara default</string>
+    <string name="show_yt_desc">Tampilkan tautan YouTube untuk media yang didukung</string>
+    <string name="include_list_anime_desc">Sertakan item daftar di halaman jelajah Anime</string>
+    <string name="ui_settings_desc">Semua pengaturan terkait UI</string>
+    <string name="download_manager_select_desc">Manajer default untuk mengunduh Anime</string>
+    <string name="backup_restore_desc">Pengaturan pilihan Anda di mana saja</string>
+    <string name="change_download_location_desc">Ubah lokasi penyimpanan semua barang yang diunduh</string>
+    <string name="always_continue_content_desc">Lanjutkan dari bagian terakhir yang Anda tinggalkan</string>
+    <string name="search_source_list_desc">Pilih otomatis server berikutnya jika server sebelumnya tidak memiliki media</string>
+    <string name="recentlyListOnly_desc">Hanya tampilkan item daftar Anda di tab terbaru</string>
+    <string name="adult_only_content_desc">Hanya tampilkan konten dewasa di halaman jelajahi</string>
+    <string name="anime_add_repository_desc">Tambahkan Ekstensi Anime dari berbagai sumber</string>
+    <string name="manga_add_repository_desc">Tambahkan Ekstensi Manga dari berbagai sumber</string>
+    <string name="user_agent_desc">Ubah agen pengguna default Anda</string>
+    <string name="force_legacy_installer_desc">Gunakan penginstal lama untuk memasang ekstensi (Untuk ponsel Android lama)</string>
+    <string name="skip_loading_extension_icons_desc">Jangan memuat ikon ekstensi di halaman ekstensi</string>
+    <string name="NSFWExtention_desc">Hapus ekstensi 18+ dari pencarian (Mungkin menghapus beberapa ekstensi yang berguna)</string>
+    <string name="reader_settings_desc">Semua pengaturan terkait Pembaca</string>
+    <string name="purge_manga_downloads_desc">Hapus semua Manga yang diunduh</string>
+    <string name="purge_novel_downloads_desc">Hapus semua Novel yang diunduh</string>
+    <string name="include_list_desc">Sertakan item daftar di halaman jelajah Manga</string>
+    <string name="anilist_notification_filters_desc">Pilih kategori untuk Diabaikan</string>
+    <string name="anilist_notifications_checking_time_desc">Tetapkan frekuensi yang Anda inginkan agar aplikasi memeriksa notifikasi Anilist</string>
+    <string name="comment_notification_checking_time_desc">Tetapkan frekuensi yang Anda inginkan agar aplikasi memeriksa notifikasi Komentar</string>
+    <string name="notification_for_checking_subscriptions_desc">Tampilkan pemberitahuan untuk memeriksa Langganan</string>
+    <string name="use_alarm_manager_reliable_desc">Gunakan untuk melewati pengoptimal baterai ponsel</string>
+    <string name="oled_theme_variant_desc">Gelap sekali</string>
+    <string name="use_material_you_desc">Gunakan warna yang sama dengan wallpaper Anda</string>
+    <string name="use_unique_theme_for_each_item_desc">Gunakan warna dari banner media</string>
+    <string name="use_custom_theme_desc">Gunakan warna Anda sendiri untuk temanya</string>
+    <string name="color_picker_desc">Pilih warna</string>
+    <string name="torrent_addon">Pengaya Torrent</string>
+    <string name="enable_torrent">Aktifkan Torrent</string>
+    <string name="anime_downloader_addon">Pengaya Pengunduh Anime</string>
+    <string name="install_torrent_addon">Instal Pengaya Torrent</string>
+    <string name="loaded_successfully">Berhasil Dimuat</string>
+    <string name="not_installed">Tidak terpasang</string>
+    <string name="torrent_extension_not_supported">Add-on Torrent tidak didukung pada perangkat ini</string>
+    <string name="update_addon">Pembaruan tambahan tersedia</string>
+    <string name="install_addon">Instal Pengaya</string>
+    <string name="download_addon_not_found">Pengaya tidak ditemukan</string>
+    <string name="image">Gambar</string>
+    <string name="failed_ext_install_conflict">Gagal memasang ekstensi karena konflik</string>
+    <string name="reading">MEMBACA</string>
+    <string name="watching">MENONTON</string>
+    <string name="avatar">%1$s\ [Avatar]</string>
+    <string name="cover">%1$s\ [Sampul]</string>
+    <string name="banner">%1$s\ [Spanduk]</string>
+    <string name="your_story">Ceritamu</string>
+    <string name="your_progress">Kemajuan Anda</string>
+    <string name="you">Anda</string>
+    <string name="logout_confirm">Apakah Anda yakin ingin logout?</string>
+    <string name="app_died">APLIKASI MATI</string>
+    <string name="an_unexpected_error_occurred">Terjadi kesalahan tak terduga.\nSilakan kirim laporan kerusakan ke pengembang :)</string>
+    <string name="copy_report">Salin Laporan</string>
+    <string name="share_as_file">Bagikan sebagai file</string>
+    <string name="hide_in_home_screen">Sembunyikan di Layar Utama</string>
+    <string name="hidden">Tersembunyi</string>
+    <string name="no_hidden_items">Tidak Ada Barang Tersembunyi</string>
+    <string name="download_addon_not_installed">Unduh Add-on tidak diinstal</string>
+    <string name="would_you_like_to_install">Apakah Anda ingin menginstalnya?</string>
+    <string name="torrent_addon_not_available">Pengaya Torrent tidak tersedia</string>
+    <string name="download_subtitle">Unduh Subtitel</string>
+    <string name="download_audio_tracks">Unduh Trek Audio</string>
+    <string name="no_video_selected">Tidak ada video yang dipilih</string>
+    <string name="no_subtitles_available">Tidak ada subtitle yang tersedia</string>
+    <string name="vote_out_of_total">(%1$s dari %2$s menyukai ulasan ini)</string>
+    <string name="create_new_activity">Buat Aktivitas Baru</string>
+    <string name="create_new_review">Buat Ulasan Baru</string>
+    <string name="create_new_reply">Buat Balasan Baru</string>
+    <string name="create">Membuat</string>
+    <string name="preview">Pratinjau</string>
+    <string name="cannot_be_empty">Teks tidak boleh kosong</string>
+    <string name="reply">Membalas</string>
+    <string name="replies">Balasan</string>
+    <string name="open_rules">Aturan Terbuka</string>
+    <string name="post_to_anilist_warning">Dengan memposting ke AniList, Anda menyetujui peraturan dan pedoman AniList</string>
+    <string name="view_subscriptions">Lihat Langganan</string>
+    <string name="view_subscriptions_desc">Lihat dan edit semua langganan Anda</string>
+    <string name="subscriptions">Langganan</string>
+    <string name="subscription_deleted">Langganan Dihapus</string>
+    <string name="foreground_service_not_allowed">Tidak dapat menginstal ketika aplikasi berada di latar belakang</string>
+    <string name="ping">Ping</string>
+    <string name="basic">Dasar</string>
+    <string name="full">Penuh</string>
+    <string name="test_type">Jenis Tes</string>
+    <string name="extension_type">Jenis Ekstensi</string>
+    <string name="view_options">Lihat Opsi</string>
+    <string name="extension_test">Tes Ekstensi</string>
+    <string name="extension_test_desc">Uji apakah ekstensi berfungsi</string>
+    <string name="start_test">Mulai Tes</string>
+    <string name="no_extensions_selected">Tidak ada ekstensi yang dipilih</string>
+    <string name="ping_success">Ping berhasil: %1$s ms</string>
+    <string name="ping_error">Ping gagal. Kode: %1$s, Pesan: %2$s</string>
+    <string name="test_not_supported">Pengujian tidak didukung untuk ekstensi ini</string>
+    <string name="no_results_found">Tidak ada hasil yang ditemukan. Ekstensi mungkin rusak</string>
+    <string name="results_found">%1$s hasil ditemukan</string>
+    <string name="title_search_test">Tes Pencarian Judul: %1$s</string>
+    <string name="episode_search_test">Tes Pencarian Episode: %1$s</string>
+    <string name="chapter_search_test">Tes Pencarian Bab: %1$s</string>
+    <string name="video_search_test">Uji Penelusuran Video: %1$s</string>
+    <string name="image_search_test">Tes Penelusuran Gambar: %1$s</string>
+    <string name="book_search_test">Tes Penelusuran Buku: %1$s</string>
+    <string name="failed_to_fix">Gagal diperbaiki</string>
+    <string name="running_fixes">Menjalankan Perbaikan…</string>
+    <string name="test_search">Tes Pencarian</string>
+    <string name="app_lock">Kunci aplikasi</string>
+    <string name="app_lock_desc">Kunci aplikasi dengan kata sandi</string>
+    <string name="confirm_password">konfirmasi sandi</string>
+    <string name="password_mismatch">Kata sandi tidak cocok atau kosong!</string>
+</resources>
